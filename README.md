@@ -1,9 +1,12 @@
 <h1>Shopping Cart</h1>
 
-Made with: 
-React
-react router
-uniqid
+<h3>Made with:<h3>
+<div>react</div>
+<div>react router</div>
+<div>uniqid</div>
+
+<h3>Demo:<h3>
+https://test2-jpg.github.io/shopping-cart
 
 <h3>Screenshot:</h3>
 Shop section
